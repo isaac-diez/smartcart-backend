@@ -10,7 +10,6 @@ import com.smartcart.auth.domain.port.out.UserRepositoryPort;
 
 /**
  * Implementación de los casos de uso de autenticación.
- *
  * IMPORTANTE: esta clase NO tiene anotaciones de Spring.
  * Spring la gestionará desde la capa de infraestructura
  * mediante @Bean en una clase @Configuration.
